@@ -8,7 +8,7 @@ xbox 컨트롤러 권장
 
 안드로이드 4.4 KitKat 이상
 
-apk download link : 
+apk download link : https://drive.google.com/file/d/1d6mwURIxZTN4M4Oekudccx6NixnsWFTB/view?usp=sharing
 
 project file download link : 
 
