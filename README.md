@@ -1,6 +1,6 @@
 # goldsonggahyun-sungshin
 
-Youtube Link : https://youtu.be/Rzoegzao95Q
+Youtube Link : https://www.youtube.com/watch?v=YEmOGQUWbC8
 
 xbox 컨트롤러 권장
 
