@@ -10,7 +10,7 @@ xbox 컨트롤러 권장
 
 apk download link : https://drive.google.com/file/d/1d6mwURIxZTN4M4Oekudccx6NixnsWFTB/view?usp=sharing
 
-project file download link : 
+project file download link : https://drive.google.com/file/d/1GdFmigJ3et0e2Jmk4OZXHhs0RLmylXoi/view?usp=sharing (유니티 2019 사용)
 
 사용 방법 : 상하좌우, 회전, Up, Down 키 맵핑, A 버튼을 누르면 홈 화면으로 돌아갑니다.
 
